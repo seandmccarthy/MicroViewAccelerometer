@@ -1,6 +1,6 @@
 # MicroView Accelerometer
 
-Displays values from an [LIS3DH accelerometer]() on a [MicroView](http://learn.microview.io/) (Arduino Uno with OLED).
+Displays values from an [LIS3DH accelerometer](https://www.st.com/en/evaluation-tools/steval-mki105v1.html) on a [MicroView](http://learn.microview.io/) (Arduino Uno with OLED).
 
 Wiring diagram to come.
 
